@@ -5,9 +5,9 @@ I'm interested in mobile app development and web-based programming.
 I use:
 ``python``, ``javascript``, ``java``, ``html``, ``css``, ``react native``
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/lauren-bassett-4310921b0/) or via [email](mailto:laurenb252@outlook.com)!
+You can reach me on <a href="https://www.linkedin.com/in/lauren-bassett-4310921b0/" target="_blank">LinkedIn</a> or via <a href="mailto:laurenb252@outlook.com">email!</a>
 
-You can also check out my website [here.](https://www.laurenbsst.github.io/portfolio)
+You can also check out my website <a href="https://laurenbsst.github.io/portfolio" target="_blank">here.</a>
 <!---
 laurenbsst/laurenbsst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
