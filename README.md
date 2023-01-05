@@ -3,7 +3,7 @@
 I'm interested in mobile app development and web-based programming.
 
 I use:
-``python``, ``javascript``, ``java``, ``html``, ``css``, ``react native``
+``html``, ``css``, ``javascript``, ``express``, ``react native``, ``java``
 
 You can reach me on <a href="https://www.linkedin.com/in/lauren-bassett-4310921b0/" target="_blank">LinkedIn</a> or via <a href="mailto:laurenb252@outlook.com">email!</a>
 
