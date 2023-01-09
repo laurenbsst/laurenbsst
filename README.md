@@ -1,6 +1,6 @@
 ### Hi, I’m Lauren! :wave:
 #### I'm a Computer Science student at UEA, UK.
-I'm interested in mobile app development and web-based programming.
+I'm interested in web-based programming and UX Design.
 
 I use:
 ``html``, ``css``, ``javascript``, ``express``, ``react native``, ``java``
