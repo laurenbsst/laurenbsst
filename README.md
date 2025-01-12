@@ -1,6 +1,6 @@
 ### Hi, I’m Lauren! :wave:
-#### I'm a Computer Science student at UEA, UK.
-I'm interested in web-based programming and UX Design.
+#### I'm a UX Designer at Expedia Group, UK.
+I'm particularly interested in mobile design and web-based programming.
 
 I use:
 ``html``, ``css``, ``javascript``, ``express``, ``react native``, ``java``
